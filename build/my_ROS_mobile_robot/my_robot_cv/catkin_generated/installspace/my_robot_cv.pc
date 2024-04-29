@@ -1,0 +1,8 @@
+prefix=/home/ahmedsaleh/Rostutorials_ws/install
+
+Name: my_robot_cv
+Description: Description of my_robot_cv
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
